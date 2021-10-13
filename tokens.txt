@@ -1,0 +1,4 @@
+MAPBOX_KEY=pk.eyJ1Ijoic291amlyb3ZhbGsiLCJhIjoiY2t1cGwxY21uMzQ5NTJydDR3eHMwOWxncyJ9.RrNWidWLCUgQPKHDP6-Alg
+
+
+https://api.mapbox.com/geocoding/v5/mapbox.places/santiago.json?access_token=pk.eyJ1Ijoic291amlyb3ZhbGsiLCJhIjoiY2t1cGwxY21uMzQ5NTJydDR3eHMwOWxncyJ9.RrNWidWLCUgQPKHDP6-Alg&cachebuster=1634134033181&autocomplete=true&limit=5&language=es
